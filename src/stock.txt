@@ -1,0 +1,72 @@
+lettuce
+spinach
+garlic
+carrots
+mushrooms
+brussle sprouts
+onion
+tomato
+cabbage
+fresh herb`
+orange
+milk`
+bread
+toilet paper`
+water
+soda
+juice
+cleaner`
+paper towel`
+alcohol
+pasta
+ketchup
+mustard
+mayonaise
+nuts
+chips
+pretzels
+popcorn
+canned foods
+beans
+corn
+potatos
+coffee
+tea
+ham`
+chicken
+steak`
+turkey
+fish
+shrimp/crab/lobster/scallops
+chicken nuggets
+maccaroni
+budwiser
+cheese
+olive oil
+vegatable oil
+spices/salt/pepper
+salsa
+queso
+Publix Deli product
+frozen dinners
+frozen vegetables
+frozen pizza
+ice cream/frozen desert
+hot dogs
+brats
+sausage
+crackers
+canned soup
+plastic cyos
+laundry related goods
+soap
+toothpaste
+shampoo
+pharmacy/medical related product
+pet food
+coke
+pepsi
+pubsub
+dip
+ground beef
+batteries
